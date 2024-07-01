@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Step into the future with cutting-edge innovation and unparalleled professionalism.",
+        "title": "Yay: Revolutionizing the Tech Experience"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Step into the future with cutting-edge innovation and unparalleled professionalism.",
+        "title": "Yay: Revolutionizing the Tech Experience"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Step into the future with cutting-edge innovation and unparalleled professionalism.",
+        "title": "Yay: Revolutionizing the Tech Experience"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Step into the future with cutting-edge innovation and unparalleled professionalism.",
+        "title": "Yay: Revolutionizing the Tech Experience"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Step into the future with cutting-edge innovation and unparalleled professionalism.",
+        "title": "Yay: Revolutionizing the Tech Experience"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Step into the future with cutting-edge innovation and unparalleled professionalism.",
+        "title": "Yay: Revolutionizing the Tech Experience"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Step into the future with cutting-edge innovation and unparalleled professionalism.",
+        "title": "Yay: Revolutionizing the Tech Experience"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Step into the future with cutting-edge innovation and unparalleled professionalism.",
+        "title": "Yay: Revolutionizing the Tech Experience"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Yay: Revolutionizing the Tech Experience",
+  "subtitle": "Step into the future with cutting-edge innovation and unparalleled professionalism."
+}
